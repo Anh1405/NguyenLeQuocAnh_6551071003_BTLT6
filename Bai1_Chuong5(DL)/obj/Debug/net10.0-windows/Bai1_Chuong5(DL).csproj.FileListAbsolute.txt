@@ -1,0 +1,16 @@
+C:\Users\Acer Nitro\source\repos\Bai1_Chuong5(DL)\obj\Debug\net10.0-windows\WindowsFormsApp.FormDangKy.resources
+C:\Users\Acer Nitro\source\repos\Bai1_Chuong5(DL)\obj\Debug\net10.0-windows\Bai1_Chuong5(DL).csproj.GenerateResource.cache
+C:\Users\Acer Nitro\source\repos\Bai1_Chuong5(DL)\obj\Debug\net10.0-windows\Bai1_Chuong5(DL).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer Nitro\source\repos\Bai1_Chuong5(DL)\obj\Debug\net10.0-windows\Bai1_Chuong5(DL).AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\Bai1_Chuong5(DL)\obj\Debug\net10.0-windows\Bai1_Chuong5(DL).AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\Bai1_Chuong5(DL)\obj\Debug\net10.0-windows\Bai1_Chuong5(DL).csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\Bai1_Chuong5(DL)\bin\Debug\net10.0-windows\Bai1_Chuong5(DL).exe
+C:\Users\Acer Nitro\source\repos\Bai1_Chuong5(DL)\bin\Debug\net10.0-windows\Bai1_Chuong5(DL).deps.json
+C:\Users\Acer Nitro\source\repos\Bai1_Chuong5(DL)\bin\Debug\net10.0-windows\Bai1_Chuong5(DL).runtimeconfig.json
+C:\Users\Acer Nitro\source\repos\Bai1_Chuong5(DL)\bin\Debug\net10.0-windows\Bai1_Chuong5(DL).dll
+C:\Users\Acer Nitro\source\repos\Bai1_Chuong5(DL)\bin\Debug\net10.0-windows\Bai1_Chuong5(DL).pdb
+C:\Users\Acer Nitro\source\repos\Bai1_Chuong5(DL)\obj\Debug\net10.0-windows\Bai1_Chuong5(DL).dll
+C:\Users\Acer Nitro\source\repos\Bai1_Chuong5(DL)\obj\Debug\net10.0-windows\refint\Bai1_Chuong5(DL).dll
+C:\Users\Acer Nitro\source\repos\Bai1_Chuong5(DL)\obj\Debug\net10.0-windows\Bai1_Chuong5(DL).pdb
+C:\Users\Acer Nitro\source\repos\Bai1_Chuong5(DL)\obj\Debug\net10.0-windows\Bai1_Chuong5(DL).genruntimeconfig.cache
+C:\Users\Acer Nitro\source\repos\Bai1_Chuong5(DL)\obj\Debug\net10.0-windows\ref\Bai1_Chuong5(DL).dll
